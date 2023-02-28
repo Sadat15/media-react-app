@@ -5,22 +5,40 @@
       "name": "Myra"
     },
     {
-      "name": "Mario Padberg",
+      "name": "Elsie Price",
       "id": 3
     },
     {
-      "name": "Frank Renner",
+      "name": "Harold Strosin",
       "id": 4
-    },
-    {
-      "name": "Kristi Tremblay",
-      "id": 5
-    },
-    {
-      "name": "Virginia Russel",
-      "id": 6
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking trip",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Rubber Bacon",
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "title": "Ergonomic Soft Pizza",
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "title": "Modern Soft Salad",
+      "id": 13
+    },
+    {
+      "userId": 1,
+      "title": "Handmade Concrete Tuna",
+      "id": 14
+    }
+  ],
   "photos": []
 }
