@@ -21,24 +21,30 @@
     },
     {
       "userId": 1,
-      "title": "Oriental Rubber Bacon",
-      "id": 11
-    },
-    {
-      "userId": 1,
       "title": "Ergonomic Soft Pizza",
       "id": 12
     },
     {
       "userId": 1,
-      "title": "Modern Soft Salad",
+      "title": "Electronic Plastic Ball",
       "id": 13
-    },
-    {
-      "userId": 1,
-      "title": "Handmade Concrete Tuna",
-      "id": 14
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=56695",
+      "id": 1
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=78006",
+      "id": 2
+    },
+    {
+      "albumId": 13,
+      "url": "https://loremflickr.com/150/150/abstract?lock=97918",
+      "id": 3
+    }
+  ]
 }
